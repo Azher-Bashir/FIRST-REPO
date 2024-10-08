@@ -1,2 +1,3 @@
 # FIRST-REPO
- This is my first repository and hope that this is going to be  good experience eith this application.
+ This is my first repository, and I hope this will be a good experience with this application.
+ Author = Azher Bashir
